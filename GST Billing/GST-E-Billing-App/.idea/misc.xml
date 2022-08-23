@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Downloads/GST_Billing_App_In_Android_With_Source_Code/GST-E-Billing-App/app/src/main/res/drawable/bill_item_selector.xml" value="0.1665" />
+        <entry key="..\:/Downloads/GST_Billing_App_In_Android_With_Source_Code/GST-E-Billing-App/app/src/main/res/drawable/round_view_black.xml" value="0.1" />
+        <entry key="..\:/Downloads/GST_Billing_App_In_Android_With_Source_Code/GST-E-Billing-App/app/src/main/res/layout/activity_aboutus.xml" value="0.30052083333333335" />
+        <entry key="..\:/Downloads/GST_Billing_App_In_Android_With_Source_Code/GST-E-Billing-App/app/src/main/res/layout/activity_bills.xml" value="0.3333333333333333" />
+        <entry key="..\:/Downloads/GST_Billing_App_In_Android_With_Source_Code/GST-E-Billing-App/app/src/main/res/layout/activity_detail.xml" value="0.30052083333333335" />
+        <entry key="..\:/Downloads/GST_Billing_App_In_Android_With_Source_Code/GST-E-Billing-App/app/src/main/res/layout/activity_new_bill.xml" value="0.30052083333333335" />
+        <entry key="..\:/Downloads/GST_Billing_App_In_Android_With_Source_Code/GST-E-Billing-App/app/src/main/res/layout/activity_new_bill_customer.xml" value="0.3333333333333333" />
+        <entry key="..\:/Downloads/GST_Billing_App_In_Android_With_Source_Code/GST-E-Billing-App/app/src/main/res/layout/activity_save_pdf.xml" value="0.30052083333333335" />
+        <entry key="..\:/Downloads/GST_Billing_App_In_Android_With_Source_Code/GST-E-Billing-App/app/src/main/res/layout/activity_setup_password.xml" value="0.30052083333333335" />
+        <entry key="..\:/Downloads/GST_Billing_App_In_Android_With_Source_Code/GST-E-Billing-App/app/src/main/res/layout/single_item_bills_layout.xml" value="0.30052083333333335" />
+        <entry key="..\:/Downloads/GST_Billing_App_In_Android_With_Source_Code/GST-E-Billing-App/app/src/main/res/layout/single_item_detail_layout.xml" value="0.30052083333333335" />
+        <entry key="..\:/Downloads/GST_Billing_App_In_Android_With_Source_Code/GST-E-Billing-App/app/src/main/res/layout/single_item_pdf_layout.xml" value="0.30052083333333335" />
+        <entry key="..\:/Downloads/GST_Billing_App_In_Android_With_Source_Code/GST-E-Billing-App/app/src/main/res/menu/menu_bill.xml" value="0.30052083333333335" />
+        <entry key="..\:/Downloads/GST_Billing_App_In_Android_With_Source_Code/GST-E-Billing-App/app/src/main/res/menu/menu_bills_list.xml" value="0.30052083333333335" />
+        <entry key="..\:/Downloads/GST_Billing_App_In_Android_With_Source_Code/GST-E-Billing-App/app/src/main/res/menu/menu_detail.xml" value="0.30052083333333335" />
+        <entry key="..\:/Downloads/GST_Billing_App_In_Android_With_Source_Code/GST-E-Billing-App/app/src/main/res/menu/menu_save_pdf.xml" value="0.30052083333333335" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
