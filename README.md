@@ -6,19 +6,19 @@ Android GST E-Billing Project is GST billing solution. The system enables you to
 
 
 Features :-
-Easy Layout.
-Generate Invoices and receipts PDF Support
-Unique bill numbers
-Functionality to create invoice item each time or choose from database.
-Functionality to choose TAX.
-Generate downloadable PDf files
-And lot more...
+Easy Layout,
+Generate Invoices and receipts PDF Support,
+Unique bill numbers,
+Functionality to create invoice item each time or choose from database,
+Functionality to choose TAX,
+Generate downloadable PDf files,
+And lot more...,
 
 
 Technology, Tools and Plugin Used :-
-Android Studio
-java
-Windows 10
+Android Studio,
+java,
+Windows 10,
 
 
 If you want to try this app then apk is given above in source code by name [app-debug.apk]
