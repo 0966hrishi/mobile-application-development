@@ -12,13 +12,13 @@ Unique bill numbers,
 Functionality to create invoice item each time or choose from database,
 Functionality to choose TAX,
 Generate downloadable PDf files,
-And lot more...,
+And lot more...
 
 
 Technology, Tools and Plugin Used :-
 Android Studio,
 java,
-Windows 10,
+Windows 10.
 
 
 If you want to try this app then apk is given above in source code by name [app-debug.apk]
